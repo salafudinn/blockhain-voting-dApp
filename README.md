@@ -2,6 +2,9 @@
 
 A blockchain-based voting platform built with Solidity, Hardhat, React, and Tailwind CSS. This application features a secure and transparent voting mechanism with a responsive user interface.
 
+![2025-12-11 18-17-54](https://github.com/user-attachments/assets/2b3b75b9-5149-4646-a5ff-976dd18987a8)
+
+
 ## Features
 
 - Create proposals on-chain
