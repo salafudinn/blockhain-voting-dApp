@@ -1,0 +1,28 @@
+{
+  "name": "dvs-voting-dapp",
+  "version": "1.0.0",
+  "description": "Decentralized Voting System - A blockchain-based voting platform",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "node": "hardhat node --network hardhat",
+    "deploy": "hardhat run scripts/deploy-and-update.js --network localhost",
+    "dev:frontend": "cd frontend && npm run dev"
+  },
+  "keywords": [
+    "blockchain",
+    "voting",
+    "web3",
+    "ethereum",
+    "hardhat"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.27.2"
+  },
+  "dependencies": {
+    "ethers": "^6.9.0"
+  }
+}
