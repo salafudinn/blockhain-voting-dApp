@@ -188,8 +188,7 @@ Ensure three terminals are running:
 |----------|---------|--------|
 | Terminal 1 | `npx hardhat node` | Keep running |
 | Terminal 2 | `npx hardhat run scripts/deploy-and-update.js --network localhost` | Run once |
-| Terminal 3 | `cd frontend 
-               npm run dev` | Keep running |
+| Terminal 3 | `cd frontend , then -> npm run dev` | Keep running |
 
 ## Important Notes
 
